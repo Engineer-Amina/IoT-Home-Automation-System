@@ -1,10 +1,10 @@
 # IoT-Home-Automation-System
 ESP32-based IoT Home Automation System using Blynk app
 
-##OVERVIEW
+# OVERVIEW
 This project implements a basic IoT-based home automation system to control from mobile application.
 
-##PROBLEM STATEMENT
+# PROBLEM STATEMENT
 Traditional electrical switches requires manual control. This system enable remote ON/OFF control from your mobile phones. 
 
 ## System Architecture
